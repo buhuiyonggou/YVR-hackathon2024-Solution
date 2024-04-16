@@ -22,6 +22,6 @@ To run the "Airport Eagle Eye" application, you need:
 - Python environment with necessary libraries installed.
 
 ## Project Demo
-Please see the slides for project details
-Check demo on page 10-14
-https://docs.google.com/presentation/d/1OwX_GwnXP__qZI1o32-riwU4-yVbGjS1F3pA6QsRMuo/edit?usp=sharing
+- Please see the slides for project details
+- Check demo on page 10-14
+- https://docs.google.com/presentation/d/1OwX_GwnXP__qZI1o32-riwU4-yVbGjS1F3pA6QsRMuo/edit?usp=sharing
