@@ -5,9 +5,10 @@
 
 ## Key Features
 - ### Yolo8 models
-- **Real-Time Incident Monitoring**: Connects to on-site cameras to monitor and report anomalies instantly.
-- **Desktop Supervision**: Monitors current screen/desktop for any unusual activities or requirements.
-- **Video Analysis**: Analyzes pre-recorded videos to identify and report past incidents.
+This application utilizes YOLO models for various monitoring and analysis purposes. It includes three main functionalities within the models folder:
+- **Real-Time Incident Monitoring(detect_with_camera)**: Connects to on-site cameras to monitor and report anomalies instantly.
+- **Desktop Supervision(detect_with_display)**: Monitors current screen/desktop for any unusual activities or requirements.
+- **Video Analysis(detect_with_files)**: Analyzes pre-recorded videos to identify and report past incidents.
 
 - ### Mobile App
 - **Mobile Application Integration**: Includes features for incident notifications, task assignment, task review and archival, and user management.
@@ -21,7 +22,11 @@ To run the "Airport Eagle Eye" application, you need:
 - A Google Firebase account with your own keys and authentication setup.
 - Python environment with necessary libraries installed.
 
+### How to run
+- Run the mobile app on terminal
+- Run the Yolo8 models on terminal
+
 ## Project Demo
 - Please see the slides for project details
 - Check demo on page 10-14
-- https://docs.google.com/presentation/d/1OwX_GwnXP__qZI1o32-riwU4-yVbGjS1F3pA6QsRMuo/edit?usp=sharing
+- https://docs.google.com/presentation/d/1OwX_GwnXP__qZI1o32-riwU4-yVbGjS1F3pA6QsRMuo/edit?usp=sharing](https://www.canva.com/design/DAGDXXiglps/6LtAnEoD3xhWic7M1fg6Zg/view
